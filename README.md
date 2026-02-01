@@ -10,7 +10,7 @@ The notebook focuses on:
 
 ## Project Structure
 - data/ → raw dataset
-- notebooks/ → analysis notebook
+- notebook/ → analysis notebook
 
 ## Tools Used
 - Python

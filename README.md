@@ -9,8 +9,8 @@ The notebook focuses on:
 - Correlation analysis and grouped insights
 
 ## Project Structure
-data/ → raw dataset
-notebooks/ → analysis notebook
+- data/ → raw dataset
+- notebooks/ → analysis notebook
 
 ## Tools Used
 - Python
